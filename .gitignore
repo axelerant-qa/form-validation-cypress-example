@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules
+
+# Cypress test execution  evidences
+cypress/screenshots
+cypress/videos
+
+# Mac configs
+.DS_Store
