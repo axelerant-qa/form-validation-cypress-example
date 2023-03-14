@@ -37,7 +37,7 @@ npm run test-headless
 ```
 
 ### Test Execution Evidence
-+ Test Execution Videos can be accessed from [here](cypress/videos).
++ Once the tests have finished running, you can find the test execution videos in the "cypress/videos" directory.
 
 ### Additional References
 + [How to perform database testing with cypress](https://testersdock.com/cypress-database-testing/)
